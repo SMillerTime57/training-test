@@ -8,3 +8,5 @@ Steps to get this to work:
 3. Run the code.
 
 I like git.
+
+I've made some changes.
